@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VanhauDAU/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/VanhauDAU/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/VanhauDAU/leetcode/tree/master/0605-can-place-flowers) |
+| [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/VanhauDAU/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VanhauDAU/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VanhauDAU/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VanhauDAU/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -48,14 +50,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VanhauDAU/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VanhauDAU/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VanhauDAU/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -77,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/VanhauDAU/leetcode/tree/master/0605-can-place-flowers) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
