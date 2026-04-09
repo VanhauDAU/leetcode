@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VanhauDAU/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/VanhauDAU/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VanhauDAU/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/VanhauDAU/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VanhauDAU/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VanhauDAU/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VanhauDAU/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/VanhauDAU/leetcode/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/VanhauDAU/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/VanhauDAU/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VanhauDAU/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/VanhauDAU/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/VanhauDAU/leetcode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VanhauDAU/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/VanhauDAU/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
