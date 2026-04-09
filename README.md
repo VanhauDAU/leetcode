@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/VanhauDAU/leetcode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/VanhauDAU/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/VanhauDAU/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/VanhauDAU/leetcode/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/VanhauDAU/leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/VanhauDAU/leetcode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/VanhauDAU/leetcode/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/VanhauDAU/leetcode/tree/master/0495-teemo-attacking) |
 | [1929-concatenation-of-array](https://github.com/VanhauDAU/leetcode/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
