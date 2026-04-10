@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/VanhauDAU/leetcode/tree/master/0771-jewels-and-stones) |
 | [0824-goat-latin](https://github.com/VanhauDAU/leetcode/tree/master/0824-goat-latin) |
 | [1436-destination-city](https://github.com/VanhauDAU/leetcode/tree/master/1436-destination-city) |
+| [1556-thousand-separator](https://github.com/VanhauDAU/leetcode/tree/master/1556-thousand-separator) |
 ## Trie
 |  |
 | ------- |
