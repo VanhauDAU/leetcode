@@ -10,7 +10,6 @@ public:
             give++;
             i++;
         }
-        
         return ans;
     }
 };
