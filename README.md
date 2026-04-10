@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/VanhauDAU/leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/VanhauDAU/leetcode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/VanhauDAU/leetcode/tree/master/1051-height-checker) |
 | [1929-concatenation-of-array](https://github.com/VanhauDAU/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/VanhauDAU/leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/VanhauDAU/leetcode/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/VanhauDAU/leetcode/tree/master/1051-height-checker) |
 ## Simulation
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/VanhauDAU/leetcode/tree/master/1051-height-checker) |
 ## Math
 |  |
 | ------- |
