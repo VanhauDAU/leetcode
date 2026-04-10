@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/VanhauDAU/leetcode/tree/master/1929-concatenation-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/VanhauDAU/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/VanhauDAU/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/VanhauDAU/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2418-sort-the-people](https://github.com/VanhauDAU/leetcode/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/VanhauDAU/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/VanhauDAU/leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/VanhauDAU/leetcode/tree/master/0860-lemonade-change) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/VanhauDAU/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Merge Sort
 |  |
 | ------- |
