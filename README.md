@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/VanhauDAU/leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/VanhauDAU/leetcode/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/VanhauDAU/leetcode/tree/master/0819-most-common-word) |
+| [0860-lemonade-change](https://github.com/VanhauDAU/leetcode/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/VanhauDAU/leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/VanhauDAU/leetcode/tree/master/1089-duplicate-zeros) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/VanhauDAU/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/VanhauDAU/leetcode/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/VanhauDAU/leetcode/tree/master/0860-lemonade-change) |
 ## Merge Sort
 |  |
 | ------- |
