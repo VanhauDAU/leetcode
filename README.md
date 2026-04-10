@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VanhauDAU/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/VanhauDAU/leetcode/tree/master/1436-destination-city) |
 | [1732-find-the-highest-altitude](https://github.com/VanhauDAU/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/VanhauDAU/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/VanhauDAU/leetcode/tree/master/1929-concatenation-of-array) |
 | [2418-sort-the-people](https://github.com/VanhauDAU/leetcode/tree/master/2418-sort-the-people) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VanhauDAU/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/VanhauDAU/leetcode/tree/master/1436-destination-city) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/VanhauDAU/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1748-sum-of-unique-elements](https://github.com/VanhauDAU/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VanhauDAU/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/VanhauDAU/leetcode/tree/master/2418-sort-the-people) |
 ## Sorting
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/VanhauDAU/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/VanhauDAU/leetcode/tree/master/0819-most-common-word) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/VanhauDAU/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1748-sum-of-unique-elements](https://github.com/VanhauDAU/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VanhauDAU/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Quickselect
 |  |
