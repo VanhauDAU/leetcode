@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VanhauDAU/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/VanhauDAU/leetcode/tree/master/1436-destination-city) |
 | [1929-concatenation-of-array](https://github.com/VanhauDAU/leetcode/tree/master/1929-concatenation-of-array) |
+| [2418-sort-the-people](https://github.com/VanhauDAU/leetcode/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VanhauDAU/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/VanhauDAU/leetcode/tree/master/1436-destination-city) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VanhauDAU/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2418-sort-the-people](https://github.com/VanhauDAU/leetcode/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/VanhauDAU/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VanhauDAU/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2418-sort-the-people](https://github.com/VanhauDAU/leetcode/tree/master/2418-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/VanhauDAU/leetcode/tree/master/1436-destination-city) |
 | [1556-thousand-separator](https://github.com/VanhauDAU/leetcode/tree/master/1556-thousand-separator) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VanhauDAU/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2418-sort-the-people](https://github.com/VanhauDAU/leetcode/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
 | ------- |
