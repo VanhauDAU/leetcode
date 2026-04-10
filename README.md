@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/VanhauDAU/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/VanhauDAU/leetcode/tree/master/1929-concatenation-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/VanhauDAU/leetcode/tree/master/2057-smallest-index-with-equal-value) |
+| [2073-time-needed-to-buy-tickets](https://github.com/VanhauDAU/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2418-sort-the-people](https://github.com/VanhauDAU/leetcode/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/VanhauDAU/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/VanhauDAU/leetcode/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/VanhauDAU/leetcode/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/VanhauDAU/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## String
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/VanhauDAU/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/VanhauDAU/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Prefix Sum
 |  |
 | ------- |
