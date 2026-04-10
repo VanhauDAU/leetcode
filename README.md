@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/VanhauDAU/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VanhauDAU/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/VanhauDAU/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2129-capitalize-the-title](https://github.com/VanhauDAU/leetcode/tree/master/2129-capitalize-the-title) |
 | [2418-sort-the-people](https://github.com/VanhauDAU/leetcode/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
