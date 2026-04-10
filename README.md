@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/VanhauDAU/leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/VanhauDAU/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/VanhauDAU/leetcode/tree/master/0771-jewels-and-stones) |
+| [0824-goat-latin](https://github.com/VanhauDAU/leetcode/tree/master/0824-goat-latin) |
 ## Trie
 |  |
 | ------- |
