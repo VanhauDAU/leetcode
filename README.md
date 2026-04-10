@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/VanhauDAU/leetcode/tree/master/1089-duplicate-zeros) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VanhauDAU/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VanhauDAU/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/VanhauDAU/leetcode/tree/master/1436-destination-city) |
 | [1929-concatenation-of-array](https://github.com/VanhauDAU/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/VanhauDAU/leetcode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/VanhauDAU/leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VanhauDAU/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/VanhauDAU/leetcode/tree/master/1436-destination-city) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/VanhauDAU/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/VanhauDAU/leetcode/tree/master/0771-jewels-and-stones) |
 | [0824-goat-latin](https://github.com/VanhauDAU/leetcode/tree/master/0824-goat-latin) |
+| [1436-destination-city](https://github.com/VanhauDAU/leetcode/tree/master/1436-destination-city) |
 ## Trie
 |  |
 | ------- |
