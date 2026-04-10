@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/VanhauDAU/leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/VanhauDAU/leetcode/tree/master/1089-duplicate-zeros) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VanhauDAU/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1929-concatenation-of-array](https://github.com/VanhauDAU/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/VanhauDAU/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/VanhauDAU/leetcode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/VanhauDAU/leetcode/tree/master/0412-fizz-buzz) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VanhauDAU/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Queue
 |  |
 | ------- |
