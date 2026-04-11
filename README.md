@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VanhauDAU/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VanhauDAU/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/VanhauDAU/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/VanhauDAU/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/VanhauDAU/leetcode/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VanhauDAU/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/VanhauDAU/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VanhauDAU/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/VanhauDAU/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/VanhauDAU/leetcode/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/VanhauDAU/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VanhauDAU/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/VanhauDAU/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/VanhauDAU/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/VanhauDAU/leetcode/tree/master/2418-sort-the-people) |
 ## Simulation
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/VanhauDAU/leetcode/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/VanhauDAU/leetcode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/VanhauDAU/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/VanhauDAU/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## String
 |  |
 | ------- |
