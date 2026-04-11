@@ -7,18 +7,14 @@ public:
                 mp[a + b]++;
             }
         }
-
         int count = 0;
+        
         for (int c : nums3) {
             for (int d : nums4) {
-                int target = -(c + d);
-
-                if (mp.find(target) != mp.end()) {
-                    count += mp[target];
-                }
+                count += mp[-(c + d)];
             }
         }
-
+        
         return count;
     }
 };
