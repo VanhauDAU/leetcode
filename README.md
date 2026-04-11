@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/VanhauDAU/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/VanhauDAU/leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/VanhauDAU/leetcode/tree/master/2418-sort-the-people) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/VanhauDAU/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/VanhauDAU/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/VanhauDAU/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/VanhauDAU/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/VanhauDAU/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## String
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VanhauDAU/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/VanhauDAU/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
 |  |
 | ------- |
