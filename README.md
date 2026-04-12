@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/VanhauDAU/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VanhauDAU/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/VanhauDAU/leetcode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/VanhauDAU/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/VanhauDAU/leetcode/tree/master/0454-4sum-ii) |
 | [0575-distribute-candies](https://github.com/VanhauDAU/leetcode/tree/master/0575-distribute-candies) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/VanhauDAU/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/VanhauDAU/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/VanhauDAU/leetcode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/VanhauDAU/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/VanhauDAU/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/VanhauDAU/leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/VanhauDAU/leetcode/tree/master/0819-most-common-word) |
@@ -351,5 +353,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/VanhauDAU/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/VanhauDAU/leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
