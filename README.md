@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/VanhauDAU/leetcode/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/VanhauDAU/leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/VanhauDAU/leetcode/tree/master/0605-can-place-flowers) |
+| [0658-find-k-closest-elements](https://github.com/VanhauDAU/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/VanhauDAU/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/VanhauDAU/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/VanhauDAU/leetcode/tree/master/0739-daily-temperatures) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VanhauDAU/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/VanhauDAU/leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/VanhauDAU/leetcode/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/VanhauDAU/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/VanhauDAU/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/VanhauDAU/leetcode/tree/master/1051-height-checker) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VanhauDAU/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/VanhauDAU/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/VanhauDAU/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/VanhauDAU/leetcode/tree/master/2974-minimum-number-game) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VanhauDAU/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/VanhauDAU/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/VanhauDAU/leetcode/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/VanhauDAU/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/VanhauDAU/leetcode/tree/master/0881-boats-to-save-people) |
 | [1089-duplicate-zeros](https://github.com/VanhauDAU/leetcode/tree/master/1089-duplicate-zeros) |
 | [2000-reverse-prefix-of-word](https://github.com/VanhauDAU/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VanhauDAU/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VanhauDAU/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/VanhauDAU/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/VanhauDAU/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/VanhauDAU/leetcode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VanhauDAU/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
@@ -330,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/VanhauDAU/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/VanhauDAU/leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
