@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VanhauDAU/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/VanhauDAU/leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/VanhauDAU/leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VanhauDAU/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/VanhauDAU/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -312,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/VanhauDAU/leetcode/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/VanhauDAU/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
