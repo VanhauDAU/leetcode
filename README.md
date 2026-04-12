@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/VanhauDAU/leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/VanhauDAU/leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/VanhauDAU/leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/VanhauDAU/leetcode/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/VanhauDAU/leetcode/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/VanhauDAU/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/VanhauDAU/leetcode/tree/master/0881-boats-to-save-people) |
@@ -304,6 +305,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VanhauDAU/leetcode/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/VanhauDAU/leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VanhauDAU/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/VanhauDAU/leetcode/tree/master/2000-reverse-prefix-of-word) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/VanhauDAU/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
