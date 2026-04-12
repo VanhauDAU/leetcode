@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/VanhauDAU/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VanhauDAU/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/VanhauDAU/leetcode/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/VanhauDAU/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/VanhauDAU/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VanhauDAU/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/VanhauDAU/leetcode/tree/master/0389-find-the-difference) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VanhauDAU/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/VanhauDAU/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VanhauDAU/leetcode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/VanhauDAU/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/VanhauDAU/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/VanhauDAU/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/VanhauDAU/leetcode/tree/master/0881-boats-to-save-people) |
