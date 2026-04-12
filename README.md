@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VanhauDAU/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/VanhauDAU/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/VanhauDAU/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2485-find-the-pivot-integer](https://github.com/VanhauDAU/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Queue
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/VanhauDAU/leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/VanhauDAU/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/VanhauDAU/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## String Matching
 |  |
 | ------- |
