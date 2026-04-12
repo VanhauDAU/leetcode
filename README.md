@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VanhauDAU/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VanhauDAU/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VanhauDAU/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/VanhauDAU/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/VanhauDAU/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/VanhauDAU/leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/VanhauDAU/leetcode/tree/master/0217-contains-duplicate) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VanhauDAU/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VanhauDAU/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VanhauDAU/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/VanhauDAU/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VanhauDAU/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/VanhauDAU/leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/VanhauDAU/leetcode/tree/master/0392-is-subsequence) |
