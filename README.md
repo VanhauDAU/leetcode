@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VanhauDAU/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/VanhauDAU/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/VanhauDAU/leetcode/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/VanhauDAU/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/VanhauDAU/leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/VanhauDAU/leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VanhauDAU/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -395,12 +396,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VanhauDAU/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VanhauDAU/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VanhauDAU/leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/VanhauDAU/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VanhauDAU/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VanhauDAU/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VanhauDAU/leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/VanhauDAU/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VanhauDAU/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VanhauDAU/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VanhauDAU/leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/VanhauDAU/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
