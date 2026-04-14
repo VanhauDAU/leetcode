@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/VanhauDAU/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/VanhauDAU/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/VanhauDAU/leetcode/tree/master/0912-sort-an-array) |
+| [0997-find-the-town-judge](https://github.com/VanhauDAU/leetcode/tree/master/0997-find-the-town-judge) |
 | [1051-height-checker](https://github.com/VanhauDAU/leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/VanhauDAU/leetcode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VanhauDAU/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VanhauDAU/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/VanhauDAU/leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/VanhauDAU/leetcode/tree/master/0819-most-common-word) |
+| [0997-find-the-town-judge](https://github.com/VanhauDAU/leetcode/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VanhauDAU/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VanhauDAU/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/VanhauDAU/leetcode/tree/master/1436-destination-city) |
@@ -509,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/VanhauDAU/leetcode/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/VanhauDAU/leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
