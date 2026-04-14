@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/VanhauDAU/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/VanhauDAU/leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/VanhauDAU/leetcode/tree/master/0739-daily-temperatures) |
+| [0897-increasing-order-search-tree](https://github.com/VanhauDAU/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VanhauDAU/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/VanhauDAU/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/VanhauDAU/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VanhauDAU/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VanhauDAU/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/VanhauDAU/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/VanhauDAU/leetcode/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/VanhauDAU/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/VanhauDAU/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VanhauDAU/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VanhauDAU/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/VanhauDAU/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/VanhauDAU/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/VanhauDAU/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VanhauDAU/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VanhauDAU/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/VanhauDAU/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/VanhauDAU/leetcode/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/VanhauDAU/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VanhauDAU/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/VanhauDAU/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VanhauDAU/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/VanhauDAU/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
